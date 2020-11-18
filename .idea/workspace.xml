@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8aff9f3-e641-4e29-a7dd-119f9f0eb534" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b8aff9f3-e641-4e29-a7dd-119f9f0eb534" name="Default Changelist" comment="Adding cayman jekyll theme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,11 +23,13 @@
         <option value="Maxwell Wang &lt;maxwellwang01@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kRQccTwK6afcCqf2BQJGBxsHF0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605661005187</updated>
       <workItem from="1605661006261" duration="127000" />
-      <workItem from="1605661164265" duration="2334000" />
+      <workItem from="1605661164265" duration="2997000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605661278101</created>
@@ -70,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605661352098</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding cayman jekyll theme">
+      <created>1605663998323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605663998323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,7 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Adding cayman jekyll theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding cayman jekyll theme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605661108471">
@@ -93,10 +100,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605661232924" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605661527390">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605664117852">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605661527390" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605664117852" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605661504460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
