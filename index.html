@@ -1,24 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Maxwell Wang</title>
-    <style>
-        body {
-            background-color: #444444;
-        }
+<title>Maxwell Wang</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+<style>
+    html, body, h1, h2, h3, h4, h5 {
+        font-family: "Raleway", sans-serif
+    }
 
-        h1 {
-            color: #003fff;
-        }
+    h5 {
+        font-size: 100px
+    }
+</style>
+<body class="w3-light-grey">
 
-        p {
-            color: #ffffff;
-        }
-    </style>
-</head>
-<body>
-<h1>Maxwell Wang</h1>
-<p>Welcome to my website!</p>
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer"
+     title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main">
+
+    <!-- Header -->
+    <header class="w3-container">
+        <h5><b>Maxwell Wang</b></h5>
+    </header>
+
+    <div class="w3-row-padding w3-margin-bottom">
+        <div class="w3-quarter">
+            <div class="w3-container w3-red w3-padding-16" style="text-align: center">
+                <h4>Messages</h4>
+            </div>
+        </div>
+        <div class="w3-quarter">
+            <div class="w3-container w3-blue w3-padding-16" style="text-align: center">
+                <h4>Views</h4>
+            </div>
+        </div>
+        <div class="w3-quarter">
+            <div class="w3-container w3-teal w3-padding-16" style="text-align: center">
+                <h4>Shares</h4>
+            </div>
+        </div>
+        <div class="w3-quarter">
+            <div class="w3-container w3-orange w3-text-white w3-padding-16" style="text-align: center">
+                <h4>Users</h4>
+            </div>
+        </div>
+    </div>
+    <!-- End page content -->
+</div>
+
 </body>
 </html>
