@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8aff9f3-e641-4e29-a7dd-119f9f0eb534" name="Default Changelist" comment="borrowed w3 style">
-      <change afterPath="$PROJECT_DIR$/images/liberty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="b8aff9f3-e641-4e29-a7dd-119f9f0eb534" name="Default Changelist" comment="font sans-serif" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +83,7 @@
       <workItem from="1605661006261" duration="127000" />
       <workItem from="1605661164265" duration="6176000" />
       <workItem from="1605669325423" duration="5428000" />
-      <workItem from="1605728326435" duration="6483000" />
+      <workItem from="1605728326435" duration="6709000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1605661278101</created>
@@ -147,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605674776833</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added images and rearranged home page format">
+      <created>1605736323116</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605736323116</updated>
+    </task>
+    <task id="LOCAL-00010" summary="font sans-serif">
+      <created>1605736368078</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605736368078</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +181,9 @@
     <MESSAGE value="went with html" />
     <MESSAGE value="introduced colors" />
     <MESSAGE value="borrowed w3 style" />
-    <option name="LAST_COMMIT_MESSAGE" value="borrowed w3 style" />
+    <MESSAGE value="added images and rearranged home page format" />
+    <MESSAGE value="font sans-serif" />
+    <option name="LAST_COMMIT_MESSAGE" value="font sans-serif" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1605661108471">
@@ -192,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605674878164" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605674821300">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605736372415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605674821300" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605736372415" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605661504460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
