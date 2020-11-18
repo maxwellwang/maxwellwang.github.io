@@ -1364,7 +1364,7 @@ a {
 
 .w3-blue, .w3-hover-blue:hover {
     color: #fff !important;
-    background-color: #2196F3 !important
+    background-color: #003fff !important
 }
 
 .w3-light-blue, .w3-hover-light-blue:hover {
@@ -1439,7 +1439,7 @@ a {
 
 .w3-red, .w3-hover-red:hover {
     color: #fff !important;
-    background-color: #f44336 !important
+    background-color: #ff0000 !important
 }
 
 .w3-sand, .w3-hover-sand:hover {
@@ -4685,4 +4685,23 @@ a {
     margin: 0;
     overflow: visible;
     clip: auto
+}
+
+.imgbox {
+    display: grid;
+    height: 100%;
+}
+
+.center-fit {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
 }
