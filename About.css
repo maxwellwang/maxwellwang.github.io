@@ -40,7 +40,7 @@
   font-size: 14.375rem;
   letter-spacing: 8px;
   font-weight: 700;
-  margin: 288px auto 0 -171px;
+  margin: 322px 0 0 -193px;
 }
 
 @media (max-width: 1199px) {
@@ -67,7 +67,6 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-right: 0;
     margin-left: -259px;
   }
 }
