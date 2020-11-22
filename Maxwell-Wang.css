@@ -8,6 +8,7 @@
 
 .u-section-1 .u-text-1 {
   width: 469px;
+  font-weight: bold;
   margin: 21px auto 0;
 }
 
@@ -108,10 +109,6 @@
     min-height: 691px;
   }
 
-  .u-section-1 .u-text-1 {
-    font-weight: bold;
-  }
-
   .u-section-1 .u-layout-wrap-1 {
     margin-right: initial;
     margin-left: initial;
@@ -210,15 +207,15 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 234px;
+  min-height: 293px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
-  margin: 0 auto 0 0;
+  margin: 0 auto 20px 0;
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 169px;
+  min-height: 303px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -227,38 +224,33 @@
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  margin: 0;
-}
-
-.u-section-2 .u-btn-1 {
-  border-style: solid;
-  font-weight: 700;
-  margin: 20px 0 0;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 234px;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 30px 60px;
+  font-size: 3.75rem;
+  margin: 21px 0 0;
 }
 
 .u-section-2 .u-social-icons-1 {
-  height: 48px;
-  min-height: 16px;
-  width: 106px;
-  min-width: 42px;
   white-space: nowrap;
-  margin: 0 auto;
+  height: 87px;
+  min-height: 16px;
+  width: 184px;
+  min-width: 42px;
+  margin: -34px 0 0 auto;
 }
 
 .u-section-2 .u-icon-1 {
-  height: 48px;
+  height: 100%;
 }
 
 .u-section-2 .u-icon-2 {
-  height: 48px;
+  height: 100%;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 1rem;
+  background-image: none;
+  margin: -12px auto 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -272,15 +264,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 139px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 193px;
-  }
-
-  .u-section-2 .u-social-icons-1 {
-    width: 280px;
+    min-height: 250px;
   }
 }
 
@@ -297,19 +281,6 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-2 .u-social-icons-1 {
-    width: 264px;
-  }
 }
 
 @media (max-width: 767px) {
@@ -321,9 +292,10 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+}
 
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
   }
 }
