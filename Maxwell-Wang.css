@@ -74,8 +74,6 @@
   grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto;
   grid-gap: 10px 10px;
-  height: auto;
-  width: 1140px;
   margin: 10px 0 -8px;
 }
 
@@ -153,9 +151,9 @@
   .u-section-2 .u-list-1 {
     min-height: 313px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
+    height: auto;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-2 .u-text-1 {
@@ -183,7 +181,6 @@
   .u-section-2 .u-list-1 {
     min-height: 719px;
     grid-template-columns: repeat(2, calc(50% - 5.25px));
-    width: auto;
     margin-right: initial;
     margin-left: initial;
   }
@@ -208,7 +205,6 @@
 @media (max-width: 767px) {
   .u-section-2 .u-list-1 {
     grid-template-columns: 100%;
-    width: auto;
     margin-right: initial;
     margin-left: initial;
   }
