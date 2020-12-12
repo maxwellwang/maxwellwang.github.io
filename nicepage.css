@@ -31432,7 +31432,24 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 42px;
+  min-height: 84px;
+}
+
+.u-footer .u-social-icons-1 {
+  white-space: nowrap;
+  height: 32px;
+  min-height: 16px;
+  width: 74px;
+  min-width: 42px;
+  margin: 10px auto 0;
+}
+
+.u-footer .u-icon-1 {
+  height: 32px;
+}
+
+.u-footer .u-icon-2 {
+  height: 32px;
 }
 
 .u-footer .u-text-1 {
